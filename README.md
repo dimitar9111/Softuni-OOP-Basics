@@ -1,1 +1,1 @@
-# Softuni-OOP-Basics
+# Softuni-OOP-Basics Course Excercises
